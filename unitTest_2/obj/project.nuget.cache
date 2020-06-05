@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3MjGFNCaaRoz5a64uDMElwDykd+kq79hK3goBJQc1wCX41JZwwB/r5JuUTRU4GLdg15atXRCi7zoNZdZT+DAA==",
+  "success": true,
+  "projectFilePath": "D:\\!КПИ\\!2-СЕМЕСТР\\10. СМиТРПЗ_Java\\NEW LabWORKS\\unitTests_labs\\lab2\\unitTest_2\\unitTest_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikoda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
